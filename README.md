@@ -27,6 +27,8 @@ Swipable tabs with text on each tab,easy to edit and use
  
  **Help: -** <br>
 Can someone help me with getting the text at the centre? Thanks in advance
+
+
 -----------------------------------------------------------------
 
 [![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)]
