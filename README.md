@@ -11,7 +11,7 @@ Swipable tabs with text on each tab,easy to edit and use
 
 
 
-<a href="https://ibb.co/CMff7DX"><img src="" alt="Screenshot-20200813-105041" border="0"></a>
+
 <table>
   <tr>
 <td><img src="https://i.ibb.co/Jy997gb/Screenshot-20200813-105041.png" width="300"></td>
