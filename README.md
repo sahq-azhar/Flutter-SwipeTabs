@@ -28,7 +28,7 @@ Swipable tabs with text on each tab,easy to edit and use
  
 -----------------------------------------------------------------
 
-![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
+[![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)]
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)]
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)]
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)] <br>
