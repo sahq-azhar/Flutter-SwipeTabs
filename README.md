@@ -20,6 +20,10 @@ Swipable tabs with text on each tab,easy to edit and use
 </table>
 <br>
 
+**Help: -** <br>
+Can someone help me with getting the text at the centre? Thanks in advance
+
+
  ☕[Here is the JAVA version](https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDrawer)
  <br>
  
